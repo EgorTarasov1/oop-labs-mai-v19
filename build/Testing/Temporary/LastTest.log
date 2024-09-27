@@ -1,0 +1,38 @@
+Start testing: Sep 27 02:44 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/1 Testing: test_l1
+1/1 Test: test_l1
+Command: "C:/Users/Xiaomi/Desktop/l1/build/test_l1.exe"
+Directory: C:/Users/Xiaomi/Desktop/l1/build
+"test_l1" start time: Sep 27 02:44 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[==========] Running 6 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 6 tests from NumberToForeignLanguageTest
+[ RUN      ] NumberToForeignLanguageTest.HandlesZero
+[       OK ] NumberToForeignLanguageTest.HandlesZero (0 ms)
+[ RUN      ] NumberToForeignLanguageTest.HandlesSingleDigits
+[       OK ] NumberToForeignLanguageTest.HandlesSingleDigits (0 ms)
+[ RUN      ] NumberToForeignLanguageTest.HandlesTens
+[       OK ] NumberToForeignLanguageTest.HandlesTens (0 ms)
+[ RUN      ] NumberToForeignLanguageTest.HandlesTwoDigitNumbers
+[       OK ] NumberToForeignLanguageTest.HandlesTwoDigitNumbers (0 ms)
+[ RUN      ] NumberToForeignLanguageTest.HandlesOutOfRange
+[       OK ] NumberToForeignLanguageTest.HandlesOutOfRange (0 ms)
+[ RUN      ] NumberToForeignLanguageTest.HandlesNonStandardCases
+[       OK ] NumberToForeignLanguageTest.HandlesNonStandardCases (0 ms)
+[----------] 6 tests from NumberToForeignLanguageTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 6 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 6 tests.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_l1" end time: Sep 27 02:44 RTZ 2 (çèìà)
+"test_l1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 27 02:44 RTZ 2 (çèìà)

@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/Xiaomi/Desktop/l1/build",
+  "command": "C:\\Users\\Xiaomi\\bin\\c++.exe -DL1_MAIN -IC:/Users/Xiaomi/Desktop/l1/include -g -o CMakeFiles\\main_l1.dir\\l1.cpp.obj -c C:\\Users\\Xiaomi\\Desktop\\l1\\l1.cpp",
+  "file": "C:\\Users\\Xiaomi\\Desktop\\l1\\l1.cpp",
+  "output": "CMakeFiles\\main_l1.dir\\l1.cpp.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/l1/build",
+  "command": "C:\\Users\\Xiaomi\\bin\\c++.exe -IC:/Users/Xiaomi/Desktop/l1/include -isystem C:/Users/Xiaomi/Desktop/l1/build/_deps/googletest-src/googletest/include -isystem C:/Users/Xiaomi/Desktop/l1/build/_deps/googletest-src/googletest -g -o CMakeFiles\\test_l1.dir\\test.cpp.obj -c C:\\Users\\Xiaomi\\Desktop\\l1\\test.cpp",
+  "file": "C:\\Users\\Xiaomi\\Desktop\\l1\\test.cpp",
+  "output": "CMakeFiles\\test_l1.dir\\test.cpp.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/l1/build",
+  "command": "C:\\Users\\Xiaomi\\bin\\c++.exe -IC:/Users/Xiaomi/Desktop/l1/include -isystem C:/Users/Xiaomi/Desktop/l1/build/_deps/googletest-src/googletest/include -isystem C:/Users/Xiaomi/Desktop/l1/build/_deps/googletest-src/googletest -g -o CMakeFiles\\test_l1.dir\\l1.cpp.obj -c C:\\Users\\Xiaomi\\Desktop\\l1\\l1.cpp",
+  "file": "C:\\Users\\Xiaomi\\Desktop\\l1\\l1.cpp",
+  "output": "CMakeFiles\\test_l1.dir\\l1.cpp.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/l1/build",
+  "command": "C:\\Users\\Xiaomi\\bin\\c++.exe -IC:/Users/Xiaomi/Desktop/l1/include -IC:/Users/Xiaomi/Desktop/l1/build/_deps/googletest-src/googlemock/include -IC:/Users/Xiaomi/Desktop/l1/build/_deps/googletest-src/googlemock -isystem C:/Users/Xiaomi/Desktop/l1/build/_deps/googletest-src/googletest/include -isystem C:/Users/Xiaomi/Desktop/l1/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c C:\\Users\\Xiaomi\\Desktop\\l1\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "file": "C:\\Users\\Xiaomi\\Desktop\\l1\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "output": "_deps\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/l1/build",
+  "command": "C:\\Users\\Xiaomi\\bin\\c++.exe -IC:/Users/Xiaomi/Desktop/l1/include -isystem C:/Users/Xiaomi/Desktop/l1/build/_deps/googletest-src/googlemock/include -isystem C:/Users/Xiaomi/Desktop/l1/build/_deps/googletest-src/googlemock -isystem C:/Users/Xiaomi/Desktop/l1/build/_deps/googletest-src/googletest/include -isystem C:/Users/Xiaomi/Desktop/l1/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c C:\\Users\\Xiaomi\\Desktop\\l1\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "file": "C:\\Users\\Xiaomi\\Desktop\\l1\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "output": "_deps\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/l1/build",
+  "command": "C:\\Users\\Xiaomi\\bin\\c++.exe -IC:/Users/Xiaomi/Desktop/l1/include -IC:/Users/Xiaomi/Desktop/l1/build/_deps/googletest-src/googletest/include -IC:/Users/Xiaomi/Desktop/l1/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c C:\\Users\\Xiaomi\\Desktop\\l1\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "file": "C:\\Users\\Xiaomi\\Desktop\\l1\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "output": "_deps\\googletest-build\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/l1/build",
+  "command": "C:\\Users\\Xiaomi\\bin\\c++.exe -IC:/Users/Xiaomi/Desktop/l1/include -isystem C:/Users/Xiaomi/Desktop/l1/build/_deps/googletest-src/googletest/include -isystem C:/Users/Xiaomi/Desktop/l1/build/_deps/googletest-src/googletest -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps\\googletest-build\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c C:\\Users\\Xiaomi\\Desktop\\l1\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "file": "C:\\Users\\Xiaomi\\Desktop\\l1\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "output": "_deps\\googletest-build\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj"
+}
+]
